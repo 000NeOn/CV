@@ -55,6 +55,7 @@ font-size: 100px;
 .ME{
   width: 150px;
   padding-top: 40px;
+  radius: 100%;
 }
 
 p{
